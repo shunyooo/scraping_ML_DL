@@ -9,5 +9,6 @@
 ## 2-2 ブラウザを用いたスクレイプ
 - [詳細(Qiita)](http://qiita.com/shunyooo/items/09cc636344212112a6fc)
 
-## 2-3 スクレイプ実践(oh-meijiスクレイピング)
+## 2-3 スクレイプ実践
+oh-meijiをスクレイピング
 - [詳細(Qiita)](http://qiita.com/shunyooo/private/132a1c9fa4f0af024c52)
