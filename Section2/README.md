@@ -12,3 +12,6 @@
 ## 2-3 スクレイプ実践
 oh-meijiをスクレイピング
 - [詳細(Qiita)](http://qiita.com/shunyooo/private/132a1c9fa4f0af024c52)
+
+## 2-4 WebAPIからのデータ取得
+- [詳細(Qiita)](http://qiita.com/shunyooo/items/b408b8d61f9f73b21da7)
