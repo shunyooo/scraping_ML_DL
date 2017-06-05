@@ -4,6 +4,7 @@
 ログインが必要なサイトからデータを取得するのに必要なテクニックを学んでいく。
 
 ## 2-1 ログインサイトでスクレイプ
+- [詳細(Qiita)](http://qiita.com/shunyooo/items/36af8bcb501baf8c7014)
 
-- [コード](https://github.com/shunyooo/scraping_ML_DL/blob/master/Section2/2-1%20login-getfav.ipynb)
-- [Qiita](http://qiita.com/shunyooo/items/36af8bcb501baf8c7014)
+## 2-2 ブラウザを用いたスクレイプ
+- [詳細(Qiita)](http://qiita.com/shunyooo/items/09cc636344212112a6fc)
