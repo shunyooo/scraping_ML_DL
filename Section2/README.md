@@ -15,3 +15,6 @@ oh-meijiをスクレイピング
 
 ## 2-4 WebAPIからのデータ取得
 - [詳細(Qiita)](http://qiita.com/shunyooo/items/b408b8d61f9f73b21da7)
+
+## 2-5 cronによる定期的な処理
+- [詳細(Qiita)](http://qiita.com/shunyooo/items/69c3523a8c500b37f33f)
